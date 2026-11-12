@@ -75,11 +75,13 @@ flowchart LR
 - **Spec-driven.** 15 features were specified, planned and broken into tasks before code ([GitHub Spec Kit](https://github.com/github/spec-kit)): customer memory, product resolution, multi-product cart, order capture, Arabic dashboard and more.
 - **Approved by Meta.** Passed Meta App Review for Messenger and Instagram messaging, and approved as a WhatsApp Tech Provider.
 
-## Demo
 
-<!-- DEMO_VIDEO: drag thinflow-demo.mp4 here in the GitHub editor -->
 
-## Screenshots
+
+https://github.com/user-attachments/assets/15599f42-fca2-4335-80de-04df898f6dc6
+
+
+
 
 **Landing page**: what the merchant sees first
 
